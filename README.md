@@ -6,7 +6,7 @@ FragmentBuild.m: This m file breaks the genomic sequences of the center 100-kb r
 
 runscript1.sh and runsript2.sh: These are batch commands that run OligoArray2.1.
 
-DomainStartsAndEnds.txt: This file contains the pre-determined starts and ends of the 27 TADs on human chromosome 22.
+DomainStartsAndEnds.txt: This file contains the pre-determined start and end genomic coordiantes of the 27 TADs on human chromosome 22.
 
 generateJavaComands.m: This file contains a loop that generates the OligoArray2.1 Java commands for the probe design for the different TADs -- the commands in runscript1.sh and runsript2.sh.
 
