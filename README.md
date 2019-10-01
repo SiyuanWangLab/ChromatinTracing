@@ -1,4 +1,4 @@
-# ChromatinTracing
+# Chromatin Tracing Probe Design
 This repository contains codes for chromatin tracing probe design.
 Codes here were used to design the chromatin tracing probes targeting 27 TADs on human chromosome 22. See publicaton: Siyuan Wang, Jun-Han Su, Brian J. Beliveau, Bogdan Bintu, Jeffrey R. Moffitt, Chao-ting Wu, Xiaowei Zhuang, Spatial organization of chromatin domains and compartments in single chromosomes, Science, Vol. 353, Issue 6299, 598-602, DOI: 10.1126/science.aaf8084, 2016.
 
